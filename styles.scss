@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: #f1f3f8;
 }
 
 .menu {
@@ -8,13 +9,37 @@ body {
         max-width: 50px;
         max-height: 50px;
         margin: 10px;
-        float: left;
+        padding-right: 1250px;
     }
     a {
         text-decoration: none;
         color: #8d93ab;
         margin: 5px;
-        padding-top: 20px;
-        float: right;
+        padding: 50px 0px;
+    }
+}
+
+.information {
+    h2 {
+        text-align: center;
+    }
+    .info1 {
+        img {
+            height: 141px;
+            width: 141px;
+            margin-left: 15px;
+            padding-right: 15px;
+        }
+        p {}
+        table {
+            width: 100%;
+        }
+        .info2 {
+            img {
+                padding-right: 15px;
+                height: 141px;
+                width: 141px;
+            }
+        }
     }
 }
