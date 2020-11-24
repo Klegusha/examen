@@ -25,20 +25,28 @@ body {
   text-align: center;
 }
 
-.information .info1 img {
+.information .info img {
   height: 141px;
   width: 141px;
   margin-left: 15px;
   padding-right: 15px;
 }
 
-.information .info1 table {
+.information .info table {
   width: 100%;
 }
 
-.information .info1 .info2 img {
-  padding-right: 15px;
-  height: 141px;
-  width: 141px;
+.information .info .info2 {
+  padding-top: 10px;
+}
+
+.bottom hr {
+  color: #393b44;
+  width: 1000px;
+}
+
+.bottom a {
+  text-align: center;
+  margin-left: 500px;
 }
 /*# sourceMappingURL=styles.css.map */
