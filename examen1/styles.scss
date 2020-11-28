@@ -19,24 +19,23 @@ body {
     }
 }
 
-.information {
+.txt {
     h2 {
         text-align: center;
     }
-    .info {
-        img {
-            height: 141px;
-            width: 141px;
-            margin-left: 15px;
-            padding-right: 20px;
-        }
-        table {
-            width: 100%;
-        }
-        .info2 {
-            padding-top: 40px;
-        }
+}
+
+.video {
+    video {
+        width: 450px;
+        height: 370px;
+        margin-left: 530px;
     }
+}
+
+p {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .bottom {

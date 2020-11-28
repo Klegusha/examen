@@ -21,23 +21,19 @@ body {
   padding: 50px 0px;
 }
 
-.information h2 {
+.txt h2 {
   text-align: center;
 }
 
-.information .info img {
-  height: 141px;
-  width: 141px;
+.video video {
+  width: 450px;
+  height: 370px;
+  margin-left: 530px;
+}
+
+p {
   margin-left: 15px;
-  padding-right: 20px;
-}
-
-.information .info table {
-  width: 100%;
-}
-
-.information .info .info2 {
-  padding-top: 40px;
+  margin-right: 15px;
 }
 
 .bottom hr {
